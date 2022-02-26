@@ -1,0 +1,7 @@
+name: NoSpawnKill
+version: '${project.version}'
+main: com.hypernite.plugin.os.nospawnkill.main.NoSpawnKill
+api-version: 1.17
+authors: [ AnsonTsang ]
+description: NoSpawnKill
+website: https://www.hypernite.com

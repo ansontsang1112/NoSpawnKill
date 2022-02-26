@@ -1,0 +1,9 @@
+# No Spawn Kill Configuration
+
+settings:
+  protected-duration: 30 #In Seconds
+
+message:
+  prefix: "&b&l[NSK]&f"
+  start-respawn: "Spawn Kill Protection enabled for &a%duration%&f seconds." #Please don't change %duration%
+  end-protection: "Protection period done. Please try you best to survival in the server!"
